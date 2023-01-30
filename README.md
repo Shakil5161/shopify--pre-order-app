@@ -8,7 +8,7 @@ usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
 These are common Git commands used in various situations:
 
 start a working area (see also: git help tutorial)
-   clone             Clone a repository into a new directory file
+   clone             Clone a repository into a new 
    init              Create an empty Git repository or reinitialize an existing one
 
 work on the current change (see also: git help everyday)
